@@ -25,6 +25,3 @@ The webpage contains multiple sections that appear dynamically based on user int
 - JavaScript
 - jQuery
 
----
-
-## Project Structure
